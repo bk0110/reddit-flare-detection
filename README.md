@@ -36,6 +36,7 @@ https://praw.readthedocs.io/en/latest/
 * Applied 3 algorithms: Naive Bayes, SGD Classifier, Logistic Regression
 * Logistic Regression gave best results every time (both datasets one having all the flairs and the second from which some flairs were removed based on certain threshold) with around 72% accuracy
 
+## To Do:
 ### Part IV - Building a Web Application
 * Used node.js to make the app and then deployed on heroku
 
