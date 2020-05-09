@@ -38,6 +38,6 @@ https://praw.readthedocs.io/en/latest/
 
 ## To Do:
 ### Part IV - Building a Web Application
-* Used node.js to make the app and then deployed on heroku
+* Use node.js to make the app and then deploy on heroku
 
 Complete Experiment log and Refernces: https://docs.google.com/document/d/1XcaFrAADsaAijsA2_7WAsSvhMZmxq-6zHvvLOh5f7Is/edit?usp=sharing
