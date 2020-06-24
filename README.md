@@ -1,5 +1,5 @@
-# Reddit-flare-detection
-A web app for detecting reddit post's flair through link as input.
+# Reddit-flair-detection
+A web app and classifier for detecting reddit post's flair through link as input.
 ## Requirements:
 * pandas
 * numpy
